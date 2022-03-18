@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H8M3xkDqeoXoMfUeBFqzH/sptYAsh2CbbhwKOU2G78BQXrPAIkWwSyTW3CTgkn343WdybsQP9MUUchlpogMXLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BS337\\Documents\\SadmanProject\\MyGitting\\MyGitting\\MyGitting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BS337\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
